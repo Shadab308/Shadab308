@@ -48,7 +48,8 @@ Experienced iOS developer focused on building scalable, high-performance and use
 ---
 
 ### 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/md-shadab-quamar-3b6606195/
+- ### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Shadab%20Quamar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-shadab-quamar-3b6606195/)
 
 ---
 
